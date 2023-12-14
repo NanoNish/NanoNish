@@ -1,7 +1,7 @@
 # Hey there! :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nova+Square&pause=1000&vCenter=true&color=2cc6d1&width=435&lines=Its+meeee+Nano)](https://git.io/typing-svg)
 - :books: I’m currently pursuing my bachelor's in **Electrical Engineering** at IIT Roorkee
-- :nerd_face: I’m currently exploring **System Design** and **Software Development**
+- :nerd_face: I’m currently exploring **Web3** and **Game Development**
 - :envelope: You can reach me through email [here](mailto:nishkarsh1206@gmail.com)
 - :smirk: About Me: I am just a lucky bastard!
     
